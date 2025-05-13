@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.diantong.information",
+      "sha256_cert_fingerprints": [
+        "4B:98:82:01:9D:16:9E:2D:E6:82:24:FA:64:59:6B:19:9D:44:43:86:42:D8:64:B6:31:46:AA:E3:07:79:C6:CB"
+      ]
+    }
+  }
+]
